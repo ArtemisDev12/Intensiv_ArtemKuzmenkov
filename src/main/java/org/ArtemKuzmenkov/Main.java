@@ -2,7 +2,6 @@ package org.ArtemKuzmenkov;
 
 import org.ArtemKuzmenkov.task1.ArrayList_ArtemKuzmenkov;
 import org.ArtemKuzmenkov.task1.IntensiveList;
-
 import java.util.Comparator;
 
 
